@@ -1,0 +1,1 @@
+Server=14.0.18.10;Database=NgaoKiem;User ID=NgaoKiemSQL;pwd=shsdahkj3y87fki2375ht;

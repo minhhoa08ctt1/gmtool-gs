@@ -1,0 +1,146 @@
+D:\Xgo\ProjectCodes\IdAdmin\IdAdmin\bin\IDAdmin.dll
+D:\Xgo\ProjectCodes\IdAdmin\IdAdmin\bin\IDAdmin.pdb
+D:\Xgo\ProjectCodes\IdAdmin\IdAdmin\bin\IDAdmin.Lib.dll
+D:\Xgo\ProjectCodes\IdAdmin\IdAdmin\bin\IDAdmin.Lib.pdb
+D:\Xgo\ProjectCodes\IdAdmin\IdAdmin\obj\Debug\ResolveAssemblyReference.cache
+D:\Xgo\ProjectCodes\IdAdmin\IdAdmin\obj\Debug\IDAdmin.dll
+D:\Xgo\ProjectCodes\IdAdmin\IdAdmin\obj\Debug\IDAdmin.pdb
+D:\Xgo\ProjectCodes\IDNgaoKiem_Admin\IdAdmin\bin\IDAdmin.dll
+D:\Xgo\ProjectCodes\IDNgaoKiem_Admin\IdAdmin\bin\IDAdmin.pdb
+D:\Xgo\ProjectCodes\IDNgaoKiem_Admin\IdAdmin\bin\IDAdmin.Lib.dll
+D:\Xgo\ProjectCodes\IDNgaoKiem_Admin\IdAdmin\bin\IDAdmin.Lib.pdb
+D:\Xgo\ProjectCodes\IDNgaoKiem_Admin\IdAdmin\obj\Debug\ResolveAssemblyReference.cache
+D:\Xgo\ProjectCodes\IDNgaoKiem_Admin\IdAdmin\obj\Debug\IDAdmin.dll
+D:\Xgo\ProjectCodes\IDNgaoKiem_Admin\IdAdmin\obj\Debug\IDAdmin.pdb
+D:\Xgo\ProjectCodes\NgaoKiem\IDNgaoKiem_Admin\IdAdmin\bin\IDAdmin.dll
+D:\Xgo\ProjectCodes\NgaoKiem\IDNgaoKiem_Admin\IdAdmin\bin\IDAdmin.pdb
+D:\Xgo\ProjectCodes\NgaoKiem\IDNgaoKiem_Admin\IdAdmin\bin\IDAdmin.Lib.dll
+D:\Xgo\ProjectCodes\NgaoKiem\IDNgaoKiem_Admin\IdAdmin\bin\IDAdmin.Lib.pdb
+D:\Xgo\ProjectCodes\NgaoKiem\IDNgaoKiem_Admin\IdAdmin\obj\Debug\ResolveAssemblyReference.cache
+D:\Xgo\ProjectCodes\NgaoKiem\IDNgaoKiem_Admin\IdAdmin\obj\Debug\IDAdmin.dll
+D:\Xgo\ProjectCodes\NgaoKiem\IDNgaoKiem_Admin\IdAdmin\obj\Debug\IDAdmin.pdb
+D:\Xgo\ProjectCodes\XGO6\XGAccount_IDAdmin\IdAdmin\bin\IDAdmin.dll
+D:\Xgo\ProjectCodes\XGO6\XGAccount_IDAdmin\IdAdmin\bin\IDAdmin.pdb
+D:\Xgo\ProjectCodes\XGO6\XGAccount_IDAdmin\IdAdmin\bin\IDAdmin.Lib.dll
+D:\Xgo\ProjectCodes\XGO6\XGAccount_IDAdmin\IdAdmin\bin\IDAdmin.Lib.pdb
+D:\Xgo\ProjectCodes\XGO6\XGAccount_IDAdmin\IdAdmin\obj\Debug\ResolveAssemblyReference.cache
+D:\Xgo\ProjectCodes\XGO6\XGAccount_IDAdmin\IdAdmin\obj\Debug\IDAdmin.dll
+D:\Xgo\ProjectCodes\XGO6\XGAccount_IDAdmin\IdAdmin\obj\Debug\IDAdmin.pdb
+D:\Xgo\ProjectCodes\VanVuongChiVuong\XGAccount_IDAdmin\IdAdmin\bin\IDAdmin.dll
+D:\Xgo\ProjectCodes\VanVuongChiVuong\XGAccount_IDAdmin\IdAdmin\bin\IDAdmin.pdb
+D:\Xgo\ProjectCodes\VanVuongChiVuong\XGAccount_IDAdmin\IdAdmin\bin\IDAdmin.Lib.dll
+D:\Xgo\ProjectCodes\VanVuongChiVuong\XGAccount_IDAdmin\IdAdmin\bin\IDAdmin.Lib.pdb
+D:\Xgo\ProjectCodes\VanVuongChiVuong\XGAccount_IDAdmin\IdAdmin\obj\Debug\ResolveAssemblyReference.cache
+D:\Xgo\ProjectCodes\VanVuongChiVuong\XGAccount_IDAdmin\IdAdmin\obj\Debug\IDAdmin.dll
+D:\Xgo\ProjectCodes\VanVuongChiVuong\XGAccount_IDAdmin\IdAdmin\obj\Debug\IDAdmin.pdb
+d:\Xgo\ProjectCodes\Gosu\Source_Code\admin.gosu.vn\IdAdmin\bin\IDAdmin.dll
+d:\Xgo\ProjectCodes\Gosu\Source_Code\admin.gosu.vn\IdAdmin\bin\IDAdmin.pdb
+d:\Xgo\ProjectCodes\Gosu\Source_Code\admin.gosu.vn\IdAdmin\bin\IDAdmin.Lib.dll
+d:\Xgo\ProjectCodes\Gosu\Source_Code\admin.gosu.vn\IdAdmin\bin\IDAdmin.Lib.pdb
+d:\Xgo\ProjectCodes\Gosu\Source_Code\admin.gosu.vn\IdAdmin\obj\Debug\ResolveAssemblyReference.cache
+d:\Xgo\ProjectCodes\Gosu\Source_Code\admin.gosu.vn\IdAdmin\obj\Debug\IDAdmin.dll
+d:\Xgo\ProjectCodes\Gosu\Source_Code\admin.gosu.vn\IdAdmin\obj\Debug\IDAdmin.pdb
+Z:\Gosu\Gosu\Source_Code\admin.gosu.vn\IdAdmin\bin\IDAdmin.dll
+Z:\Gosu\Gosu\Source_Code\admin.gosu.vn\IdAdmin\bin\IDAdmin.pdb
+Z:\Gosu\Gosu\Source_Code\admin.gosu.vn\IdAdmin\bin\IDAdmin.Lib.dll
+Z:\Gosu\Gosu\Source_Code\admin.gosu.vn\IdAdmin\bin\IDAdmin.Lib.pdb
+Z:\Gosu\Gosu\Source_Code\admin.gosu.vn\IdAdmin\obj\Debug\ResolveAssemblyReference.cache
+Z:\Gosu\Gosu\Source_Code\admin.gosu.vn\IdAdmin\obj\Debug\IDAdmin.dll
+Z:\Gosu\Gosu\Source_Code\admin.gosu.vn\IdAdmin\obj\Debug\IDAdmin.pdb
+D:\Projects_Web\id.gosu.vn\admin.gosu.vn\IdAdmin\bin\IDAdmin.dll
+D:\Projects_Web\id.gosu.vn\admin.gosu.vn\IdAdmin\bin\IDAdmin.pdb
+D:\Projects_Web\id.gosu.vn\admin.gosu.vn\IdAdmin\bin\IDAdmin.Lib.dll
+D:\Projects_Web\id.gosu.vn\admin.gosu.vn\IdAdmin\bin\IDAdmin.Lib.pdb
+D:\Projects_Web\id.gosu.vn\admin.gosu.vn\IdAdmin\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects_Web\id.gosu.vn\admin.gosu.vn\IdAdmin\obj\Debug\IDAdmin.dll
+D:\Projects_Web\id.gosu.vn\admin.gosu.vn\IdAdmin\obj\Debug\IDAdmin.pdb
+D:\ProjectsWeb\id.gosu.vn\admin.gosu.vn\IdAdmin\obj\Debug\ResolveAssemblyReference.cache
+D:\ProjectsWeb\id.gosu.vn\admin.gosu.vn\IdAdmin\obj\Debug\IDAdmin.pdb
+D:\ProjectsWeb\id.gosu.vn\admin.gosu.vn\IdAdmin\bin\IDAdmin.dll
+D:\ProjectsWeb\id.gosu.vn\admin.gosu.vn\IdAdmin\bin\IDAdmin.pdb
+D:\ProjectsWeb\id.gosu.vn\admin.gosu.vn\IdAdmin\bin\IDAdmin.Lib.dll
+D:\ProjectsWeb\id.gosu.vn\admin.gosu.vn\IdAdmin\bin\IDAdmin.Lib.pdb
+D:\ProjectsWeb\id.gosu.vn\admin.gosu.vn\IdAdmin\obj\Debug\IDAdmin.dll
+Z:\Gosu\Gosu\Source_Code\admin.gosu.vn_svn\IdAdmin\bin\IDAdmin.dll
+Z:\Gosu\Gosu\Source_Code\admin.gosu.vn_svn\IdAdmin\bin\IDAdmin.pdb
+Z:\Gosu\Gosu\Source_Code\admin.gosu.vn_svn\IdAdmin\bin\IDAdmin.Lib.dll
+Z:\Gosu\Gosu\Source_Code\admin.gosu.vn_svn\IdAdmin\bin\IDAdmin.Lib.pdb
+Z:\Gosu\Gosu\Source_Code\admin.gosu.vn_svn\IdAdmin\obj\Debug\ResolveAssemblyReference.cache
+Z:\Gosu\Gosu\Source_Code\admin.gosu.vn_svn\IdAdmin\obj\Debug\IDAdmin.dll
+Z:\Gosu\Gosu\Source_Code\admin.gosu.vn_svn\IdAdmin\obj\Debug\IDAdmin.pdb
+E:\security\Gosu\Gosu\Source_Code\admin.gosu.vn_svn\IdAdmin\bin\IDAdmin.dll
+E:\security\Gosu\Gosu\Source_Code\admin.gosu.vn_svn\IdAdmin\bin\IDAdmin.pdb
+E:\security\Gosu\Gosu\Source_Code\admin.gosu.vn_svn\IdAdmin\bin\IDAdmin.Lib.dll
+E:\security\Gosu\Gosu\Source_Code\admin.gosu.vn_svn\IdAdmin\bin\IDAdmin.Lib.pdb
+E:\security\Gosu\Gosu\Source_Code\admin.gosu.vn_svn\IdAdmin\obj\Debug\ResolveAssemblyReference.cache
+E:\security\Gosu\Gosu\Source_Code\admin.gosu.vn_svn\IdAdmin\obj\Debug\IDAdmin.dll
+E:\security\Gosu\Gosu\Source_Code\admin.gosu.vn_svn\IdAdmin\obj\Debug\IDAdmin.pdb
+E:\GOSU\Tim hieu ben phia a Loc\admin version 2\IdAdmin\obj\Debug\ResolveAssemblyReference.cache
+E:\GOSU\Tim hieu ben phia a Loc\admin version 2\IdAdmin\obj\Debug\IDAdmin.dll
+E:\GOSU\Tim hieu ben phia a Loc\admin version 2\IdAdmin\obj\Debug\IDAdmin.pdb
+E:\GOSU\Tim hieu ben phia a Loc\admin version 2\IdAdmin\bin\IDAdmin.dll
+E:\GOSU\Tim hieu ben phia a Loc\admin version 2\IdAdmin\bin\IDAdmin.pdb
+E:\GOSU\Tim hieu ben phia a Loc\admin version 2\IdAdmin\bin\IDAdmin.Lib.dll
+E:\GOSU\Tim hieu ben phia a Loc\admin version 2\IdAdmin\bin\IDAdmin.Lib.pdb
+E:\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 2\IdAdmin\bin\IDAdmin.dll
+E:\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 2\IdAdmin\bin\IDAdmin.pdb
+E:\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 2\IdAdmin\bin\IDAdmin.Lib.dll
+E:\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 2\IdAdmin\bin\IDAdmin.Lib.pdb
+E:\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 2\IdAdmin\obj\Debug\ResolveAssemblyReference.cache
+E:\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 2\IdAdmin\obj\Debug\IDAdmin.dll
+E:\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 2\IdAdmin\obj\Debug\IDAdmin.pdb
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 2\IdAdmin\obj\Debug\ResolveAssemblyReference.cache
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 2\IdAdmin\obj\Debug\IDAdmin.dll
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 2\IdAdmin\obj\Debug\IDAdmin.pdb
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 2\IdAdmin\bin\IDAdmin.dll
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 2\IdAdmin\bin\IDAdmin.pdb
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 2\IdAdmin\bin\IDAdmin.Lib.dll
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 2\IdAdmin\bin\IDAdmin.Lib.pdb
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\amin version 3\IdAdmin\bin\IDAdmin.dll.config
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\amin version 3\IdAdmin\bin\IDAdmin.dll
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\amin version 3\IdAdmin\bin\IDAdmin.pdb
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\amin version 3\IdAdmin\bin\IDAdmin.Lib.dll
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\amin version 3\IdAdmin\bin\IDAdmin.Lib.pdb
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\amin version 3\IdAdmin\obj\Debug\IDAdmin.csprojResolveAssemblyReference.cache
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\amin version 3\IdAdmin\obj\Debug\IDAdmin.dll
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\amin version 3\IdAdmin\obj\Debug\IDAdmin.pdb
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 4\IdAdmin\bin\IDAdmin.dll.config
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 4\IdAdmin\bin\IDAdmin.dll
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 4\IdAdmin\bin\IDAdmin.pdb
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 4\IdAdmin\bin\IDAdmin.Lib.dll
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 4\IdAdmin\bin\IDAdmin.Lib.pdb
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 4\IdAdmin\obj\Debug\IDAdmin.dll
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 4\IdAdmin\obj\Debug\IDAdmin.pdb
+D:\WORK\GOSU\Tim hieu ben phia a Loc\admin gosu\admin version 4\IdAdmin\obj\Debug\IDAdmin.csprojResolveAssemblyReference.cache
+D:\WORK\GOSU\Tim hieu ben phia a Loc\GMTOOL GIANG HO\version 1\IdAdmin\bin\IDAdmin.dll.config
+D:\WORK\GOSU\Tim hieu ben phia a Loc\GMTOOL GIANG HO\version 1\IdAdmin\bin\IDAdmin.dll
+D:\WORK\GOSU\Tim hieu ben phia a Loc\GMTOOL GIANG HO\version 1\IdAdmin\bin\IDAdmin.pdb
+D:\WORK\GOSU\Tim hieu ben phia a Loc\GMTOOL GIANG HO\version 1\IdAdmin\bin\IDAdmin.Lib.dll
+D:\WORK\GOSU\Tim hieu ben phia a Loc\GMTOOL GIANG HO\version 1\IdAdmin\bin\IDAdmin.Lib.pdb
+D:\WORK\GOSU\Tim hieu ben phia a Loc\GMTOOL GIANG HO\version 1\IdAdmin\obj\Debug\IDAdmin.dll
+D:\WORK\GOSU\Tim hieu ben phia a Loc\GMTOOL GIANG HO\version 1\IdAdmin\obj\Debug\IDAdmin.pdb
+D:\WORK\GOSU\Tim hieu ben phia a Loc\GMTOOL GIANG HO\version 1\IdAdmin\obj\Debug\IDAdmin.csprojResolveAssemblyReference.cache
+D:\WORK\GOSU\Tim hieu ben phia a Loc\GMTOOL GIANG HO\version 2\IdAdmin\bin\IDAdmin.dll.config
+D:\WORK\GOSU\Tim hieu ben phia a Loc\GMTOOL GIANG HO\version 2\IdAdmin\bin\IDAdmin.dll
+D:\WORK\GOSU\Tim hieu ben phia a Loc\GMTOOL GIANG HO\version 2\IdAdmin\bin\IDAdmin.pdb
+D:\WORK\GOSU\Tim hieu ben phia a Loc\GMTOOL GIANG HO\version 2\IdAdmin\bin\IDAdmin.Lib.dll
+D:\WORK\GOSU\Tim hieu ben phia a Loc\GMTOOL GIANG HO\version 2\IdAdmin\bin\IDAdmin.Lib.pdb
+D:\WORK\GOSU\Tim hieu ben phia a Loc\GMTOOL GIANG HO\version 2\IdAdmin\obj\Debug\IDAdmin.csprojResolveAssemblyReference.cache
+D:\WORK\GOSU\Tim hieu ben phia a Loc\GMTOOL GIANG HO\version 2\IdAdmin\obj\Debug\IDAdmin.dll
+D:\WORK\GOSU\Tim hieu ben phia a Loc\GMTOOL GIANG HO\version 2\IdAdmin\obj\Debug\IDAdmin.pdb
+D:\NET\188\188toolgm\188.toolgm\IdAdmin\bin\IDAdmin.dll.config
+D:\NET\188\188toolgm\188.toolgm\IdAdmin\bin\IDAdmin.dll
+D:\NET\188\188toolgm\188.toolgm\IdAdmin\bin\IDAdmin.pdb
+D:\NET\188\188toolgm\188.toolgm\IdAdmin\bin\IDAdmin.Lib.dll
+D:\NET\188\188toolgm\188.toolgm\IdAdmin\bin\IDAdmin.Lib.pdb
+D:\NET\188\188toolgm\188.toolgm\IdAdmin\obj\Debug\IDAdmin.csprojResolveAssemblyReference.cache
+D:\NET\188\188toolgm\188.toolgm\IdAdmin\obj\Debug\IDAdmin.dll
+D:\NET\188\188toolgm\188.toolgm\IdAdmin\obj\Debug\IDAdmin.pdb
+C:\Users\MH\Desktop\188.toolgm-b956c6219ec2f578929f8f9c46f2995a5c2f7bc8\188.toolgm.git\IdAdmin\bin\IDAdmin.dll.config
+C:\Users\MH\Desktop\188.toolgm-b956c6219ec2f578929f8f9c46f2995a5c2f7bc8\188.toolgm.git\IdAdmin\bin\IDAdmin.dll
+C:\Users\MH\Desktop\188.toolgm-b956c6219ec2f578929f8f9c46f2995a5c2f7bc8\188.toolgm.git\IdAdmin\bin\IDAdmin.pdb
+C:\Users\MH\Desktop\188.toolgm-b956c6219ec2f578929f8f9c46f2995a5c2f7bc8\188.toolgm.git\IdAdmin\bin\IDAdmin.Lib.dll
+C:\Users\MH\Desktop\188.toolgm-b956c6219ec2f578929f8f9c46f2995a5c2f7bc8\188.toolgm.git\IdAdmin\bin\IDAdmin.Lib.pdb
+C:\Users\MH\Desktop\188.toolgm-b956c6219ec2f578929f8f9c46f2995a5c2f7bc8\188.toolgm.git\IdAdmin\obj\Debug\IDAdmin.csprojResolveAssemblyReference.cache
+C:\Users\MH\Desktop\188.toolgm-b956c6219ec2f578929f8f9c46f2995a5c2f7bc8\188.toolgm.git\IdAdmin\obj\Debug\IDAdmin.dll
+C:\Users\MH\Desktop\188.toolgm-b956c6219ec2f578929f8f9c46f2995a5c2f7bc8\188.toolgm.git\IdAdmin\obj\Debug\IDAdmin.pdb

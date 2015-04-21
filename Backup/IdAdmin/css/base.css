@@ -1,0 +1,295 @@
+﻿body
+{
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	font-family:Tahoma;
+	font-size:12px;	
+	background-color:#FFFFFF;
+	color:#083790;
+}
+a
+{
+	text-decoration:none;		
+}
+a:hover
+{
+	text-decoration:none;
+	color:#FF0000;
+}
+fieldset
+{
+	border:solid 1px #5D8EDB;	
+}
+legend
+{
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-right:10px;
+	padding-left:10px;	
+	font-weight:bold;
+	text-align:center;
+}
+select
+{
+	border:solid 1px #646464;
+}
+table
+{
+}
+td
+{
+}
+#outer
+{	
+	width: 100%;
+	display: block;
+	margin: 0px auto;
+}
+#header
+{
+	display:block;
+	float:left;
+	width:100%;
+	height:30px;
+	background:#113A5B;
+	border-bottom:1px solid #FFFFFF;
+	text-align:center;
+	color:#FFFFFF;
+	line-height:25px;
+	font-weight:bold;
+	font-size:24px;
+}
+#content
+{
+	display:block;
+	float:left;
+	width:100%;
+	background:#FFFFF;
+	border-top:1px solid #2173B6;
+	margin-top:1px;
+}
+#footer
+{
+	width:100%;
+	height:70px;
+}
+.page_bar
+{
+	display:block;
+	float:left;
+	width:99%;	
+}
+.page_title
+{
+	display:block;
+	float:left;
+	height:23px;
+	padding:2px;
+	padding-top:10px;
+	width:100%;
+	text-align:left;
+	font-family:Tahoma, Arial;
+	font-weight:bold;
+}
+.page_content
+{
+	display:block;
+	float:left;
+	width:99%;	
+	padding:2px;
+}
+.page_navigatepage
+{
+	display:block;
+	float:left;
+	width:100%;
+	text-align:center;
+	padding:5px;	
+}
+.span_caption
+{
+	width:30%;
+	display:table;
+	float:left;
+	text-align:right;	
+	padding:3px;
+}
+.span_value
+{
+	width:65%;
+	display:table;
+	float:left;
+	text-align:left;	
+	padding:3px;
+}
+.logon
+{
+	margin:0px auto;
+	width:249px;	
+	margin-top:100px;
+}
+.logon_top
+{
+	float: left;
+	width: 249px;
+	height: 5px;
+	background: url(../Images/box250_top.gif) repeat-y;
+}
+.logon_mid
+{
+	float: left;
+	width: 249px;
+	background: url(../images/box250_mid.gif) repeat-y;
+	padding: 5px 20px 0 20px;
+}
+.logon_mid div
+{
+	padding:2px;
+}
+.support_mid img
+{
+	padding: 0 10px 0 0;
+}
+.logon_bottom
+{
+	float: left;
+	width: 249px;
+	height: 5px;
+	background: url(../Images/box250_bottom.gif) repeat-y;
+}
+.table1
+{
+	width:100%;
+	border:solid 1px #2173B6;	
+}
+.table2
+{
+	
+}
+.table3
+{
+	
+}
+.cellTitle
+{
+	background-color:#F5F5F5;
+	color:#000000;
+	font-weight:bold;
+	padding:2px;	
+}
+.cellHeader
+{
+	background-color:#2173B6;
+	padding:2px;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+.cell1
+{
+	background-color:#DAE8F3;
+	padding:2px;
+	line-height:20px;
+}
+.cell2
+{
+	background-color:#FFFFFF;
+	padding:2px;
+	line-height:20px;
+}
+.cell3
+{
+	
+}
+.cell4
+{
+	
+}
+select
+{
+	border:1px solid #B5D0E7;
+}
+.textbox
+{
+	border:1px solid #B5D0E7;
+}
+.button
+{
+	border:1px solid #164D79;
+	background-color:#90B9DB;
+	padding:1px;
+    height: 26px;
+}
+/******** Style for dropdown menu *****/
+#menu
+{
+    display:block;
+    width:100%;
+    float:left; 
+    background:#2173B6;   	
+}
+#menubar
+{
+    margin:0px auto;
+    padding:0px;	
+}
+#menubar li
+{
+    float:left;
+    list-style:none;
+    font:11px Tahoma;            	
+}
+#menubar li a
+{
+	background-position: #20548E;
+	display: block;
+	background: #2173B6;
+	padding: 5px 12px;
+	text-decoration: none;
+	border-right: 1px solid white;
+	width: auto;
+	color: #FFFFFF;
+	font: Tahoma Bold 11px;
+	white-space: nowrap;
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: bold;
+}
+#menubar li a:hover
+{
+	background: #4A4A4A;
+}
+#menubar li ul
+{	
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	visibility: hidden;
+	border-top: 1px solid white;
+	z-index:9999;
+}		
+#menubar li ul li
+{	
+	float: none;
+	display: inline
+}		
+#menubar li ul li a
+{	
+	width: 200px;
+	background: #2173B6;
+	color: #FFFFFF;
+	border-top:1px solid #FFFFFF;
+}
+
+#menubar li ul li a:hover
+{	
+	background: #B5D0E7;
+	color:#000000;
+}     
+.clear
+{	
+	clear: both;
+    overflow: hidden;
+    height: 0
+}   
